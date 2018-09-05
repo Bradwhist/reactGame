@@ -1,0 +1,11 @@
+export const SIGNUP = 'SIGNUP';
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const FETCH_USER = 'FETCH_USER';
+export const FETCH_LOBBIES = 'FETCH_LOBBIES';
+export const FETCH_LOBBY = 'FETCH_LOBBY';
+export const GAME_START = 'GAME_START';
+export const GAME_PLAY = 'GAME_PLAY';
+export const NEW_GAME = 'NEW_GAME';
+export const JOIN_LOBBY = 'JOIN_LOBBY';
+export const ASSIGN_SLOT = 'ASSIGN_SLOT';
