@@ -14,7 +14,7 @@ import io from 'socket.io-client';
 import {messageTypes, uri} from './constants/websockets.js';
 
 import Home from './components/Home';
-import Game from './components/Game';
+import Game from './components/NewGame';
 import Login from './components/Login';
 import Dashboard from './components/Dashboard';
 import Lobby from './components/Lobby';
